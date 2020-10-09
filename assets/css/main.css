@@ -17,14 +17,12 @@ body {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   overflow-x: hidden;
-  white-space: pre;
 }
 
 h1, h2, h3, h4 {
   font-size: 38px;
   font-weight: 700;
   font-family: "Source Sans Pro", sans-serif;
-  white-space: pre;
 }
 
 .script-font {
@@ -36,7 +34,6 @@ a {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  white-space: pre;
 }
 
 a:hover {
@@ -52,7 +49,6 @@ p {
   font-family: "Source Sans Pro", sans-serif;
   margin: 0px;
   font-size: 14px;
-  white-space: pre;
 }
 
 ul, ol {
@@ -313,7 +309,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 .about-profile {
   position: relative;
   margin: 20px 0 20px 0;
-  white-space: pre;
 }
 
 .about-profile .pro-title {
@@ -323,7 +318,6 @@ a.back-to-top:hover, a.back-to-top:focus {
   width: 120px;
   display: inline-block;
   margin-bottom: 5px;
-  white-space: pre;
 }
 
 .about-profile .pro-title:after {
@@ -332,14 +326,12 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #040404;
   font-size: 14px;
   left: 77px;
-  white-space: pre;
 }
 
 .about-profile .admin-sign {
   position: absolute;
   right: 45px;
   bottom: 10px;
-  white-space: pre;
 }
 
 .counter-section {
