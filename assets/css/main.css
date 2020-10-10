@@ -886,6 +886,14 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #fff;
 }
 
+.caption {
+  font-family: sans-serif;
+  color: black;
+  font-weight: bold;
+  display: inline-block;
+  padding-top: .5em;
+}
+
 .overlay .link {
   position: absolute;
   left: 60%;
