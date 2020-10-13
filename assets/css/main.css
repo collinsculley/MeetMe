@@ -110,6 +110,17 @@ ul li, ol li {
   position: relative;
 }
 
+.section-title-counter {
+  color: #0ebdf7;
+  font-size: 38px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1;
+  margin-bottom: 48px;
+  padding: 0 10px;
+  position: absolute;
+}
+
 .btn {
   font-size: 14px;
   padding: 10px 30px;
