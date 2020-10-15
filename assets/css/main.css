@@ -111,14 +111,14 @@ ul li, ol li {
 }
 
 .section-title-counter {
-  color: #0ebdf7;
+  color: #ffffff;
   font-size: 38px;
   text-align: center;
   letter-spacing: 1px;
-  line-height: 1;
+  line-height: 20px;
   margin-bottom: 48px;
   padding: 0 10px;
-  position: absolute;
+  position: relative;
 }
 
 .btn {
