@@ -756,14 +756,14 @@ a.back-to-top:hover, a.back-to-top:focus {
 #hero-area .contents .head-title {
   color: #fff;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  font-size: 100px;
+  font-size: 70px;
   letter-spacing: 10px;
   text-transform: uppercase;
   /* font-weight: 700; */
 }
 
 #hero-area .contents p {
-  font-size: 100px;
+  font-size: 70px;
   color: #fff;
   font-weight: 400;
   line-height: 30px;
