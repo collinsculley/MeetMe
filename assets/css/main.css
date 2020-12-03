@@ -759,6 +759,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   font-size: 70px;
   letter-spacing: 10px;
   text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 20px;
   /* font-weight: 700; */
 }
 
